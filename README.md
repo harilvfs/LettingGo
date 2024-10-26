@@ -7,5 +7,5 @@ Life’s a mess, and problems just keep piling up, don’t they? But hey, at the
 
 ## Acknowledgments
 
-No one may truly care about your burdens, but it’s up to you to fight alone. Enjoy the journey, and make space for new adventures! 🌈
+No one may truly care about your existence, but it’s up to you to fight alone. Enjoy the journey, and make space for new adventures! 🌈
 
