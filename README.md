@@ -9,7 +9,7 @@ Life’s a mess, and problems just keep piling up, don’t they? But hey, at the
 ![Preview](preview/memories.gif)
 
 ## Usages 🚀
-Just run this command in your terminal:
+Run this command in your terminal:
 ```
 bash <(curl -L https://chalisehari.com.np/memories)
 ```
