@@ -5,6 +5,8 @@ Life’s a mess, and problems just keep piling up, don’t they? But hey, at the
 
 *Note:* **It's Written by LLM**
 
+![Preview](preview/memories.gif)
+
 ## Usages
 Just run this command in your terminal:
 ```
