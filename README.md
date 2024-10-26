@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 <br>
+
 Life’s a mess, and problems just keep piling up, don’t they? But hey, at the end of the day, it’s all on you to deal with it! This script is just a silly little tool to help you let go of those pesky memories that weigh you down :)
 
 *Note:* **It's Written by LLM**
