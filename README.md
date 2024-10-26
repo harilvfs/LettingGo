@@ -5,6 +5,7 @@
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![GitHub Release Date](https://img.shields.io/github/release-date/harilvfs/LettingGo?style=for-the-badge&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![Github Language](https://img.shields.io/github/languages/top/harilvfs/LettingGo?style=for-the-badge&logo=github)
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/HBySRyymyZ?logoColor=ff6b6b)](https://discord.gg/HBySRyymyZ) 
 [![Discord invite][discord-badge]][discord-link]
