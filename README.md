@@ -22,7 +22,7 @@ Life’s a mess, and problems just keep piling up, don’t they? But hey, at the
 
 **BTW This is Just for fun!** 
 
-![Preview](preview/memories.gif)
+![Preview](preview/snapme.gif)
 
 ## Usages 🚀
 Run this command in your terminal:
