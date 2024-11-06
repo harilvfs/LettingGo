@@ -1,6 +1,7 @@
 # LettingGo ✨
 
 ![GitHub Created At](https://img.shields.io/github/created-at/harilvfs/LettingGo?style=for-the-badge&logo=github)
+[![Downloads][downloads-badge]][downloads-link]
 ![GitHub Release](https://img.shields.io/github/v/release/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/harilvfs/LettingGo?style=for-the-badge&logo=github)
@@ -29,6 +30,9 @@ Run this command in your terminal:
 ```
 bash <(curl -L https://chalisehari.com.np/memories)
 ```
+
+[downloads-badge]: https://img.shields.io/github/downloads/harilvfs/LettingGo/total?logo=github&logoColor=white&style=for-the-badge
+[downloads-link]: https://github.com/harilvfs/LettingGo/releases
 
 ## Acknowledgments
 
