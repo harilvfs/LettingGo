@@ -1,5 +1,9 @@
 # LettingGo ✨
 
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/HBySRyymyZ?logoColor=ff6b6b)](https://discord.gg/HBySRyymyZ) 
+[![Discord invite][discord-badge]][discord-link]
+
+
 ![GitHub Created At](https://img.shields.io/github/created-at/harilvfs/LettingGo?style=for-the-badge&logo=github)
 [![Downloads][downloads-badge]][downloads-link]
 ![GitHub Release](https://img.shields.io/github/v/release/harilvfs/LettingGo?style=for-the-badge&logo=github)
@@ -8,8 +12,6 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/harilvfs/LettingGo?style=for-the-badge&logo=github)
 ![Github Language](https://img.shields.io/github/languages/top/harilvfs/LettingGo?style=for-the-badge&logo=github)
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/HBySRyymyZ?logoColor=ff6b6b)](https://discord.gg/HBySRyymyZ) 
-[![Discord invite][discord-badge]][discord-link]
 ![GitHub License](https://img.shields.io/github/license/harilvfs/LettingGo?style=for-the-badge&logo=github)
 
 <a href="https://instagram.com/harilvfs">
@@ -28,7 +30,7 @@ Life’s a mess, and problems just keep piling up, don’t they? But hey, at the
 ## Usages 🚀
 Run this command in your terminal:
 ```
-bash <(curl -L https://chalisehari.com.np/memories)
+bash <(curl -L https://raw.githubusercontent.com/harilvfs/LettingGo/refs/heads/main/memories.sh)
 ```
 
 [downloads-badge]: https://img.shields.io/github/downloads/harilvfs/LettingGo/total?logo=github&logoColor=white&style=for-the-badge
